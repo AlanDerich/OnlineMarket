@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534700730323",
+    "project_id": "onlinemarket-ebf51",
+    "storage_bucket": "onlinemarket-ebf51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534700730323:android:9091b1d11daa42ffeab126",
+        "android_client_info": {
+          "package_name": "com.derich.onlinemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534700730323-k418t3og280bvo52ltbjp2k21kcsti5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.derich.onlinemarket",
+            "certificate_hash": "7fd4e3a1b95de1ee15046097487bb57a8da47691"
+          }
+        },
+        {
+          "client_id": "534700730323-47upd5acjj6e0uhrlf90fdoc9r6aa9p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZTfZHVxswT_k58ZPSFst3vC5dj5ZUc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534700730323-47upd5acjj6e0uhrlf90fdoc9r6aa9p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
